@@ -15,7 +15,7 @@ O **Freelance Finder** é uma ferramenta inovadora que facilita a busca por opor
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/freelance-finder.git
+   git clone https://github.com/matheusfelipeofc/Freelance-Finder.git
    ```
 
 2. Navegue até o diretório do projeto:
