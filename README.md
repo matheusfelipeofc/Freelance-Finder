@@ -7,9 +7,6 @@ O **Freelance Finder** é uma ferramenta inovadora que facilita a busca por opor
 ## Recursos
 
 - **Busca Automatizada**: Coleta de dados em tempo real de vários sites de freelancers.
-- **Filtros Personalizáveis**: Ajuste suas pesquisas com base em categoria de trabalho, localização e faixa de pagamento.
-- **Notificações de Oportunidades**: Alertas automáticos para novas vagas que correspondem aos critérios definidos.
-- **Interface Amigável**: Design intuitivo para uma navegação simples e eficiente.
 
 ## Como Usar
 
